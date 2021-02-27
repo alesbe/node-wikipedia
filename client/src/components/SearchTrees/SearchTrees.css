@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700");
+body {
+  font-family: Roboto, sans-serif;
+  margin: 0;
+  height: 100vh;
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  background-image: linear-gradient(to top, #96fbc4 0%, #f9f586 100%);
+}
+
+.wrapper_search {
+  justify-content: center;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+  background: linear-gradient(to top, #96fbc4 0%, #f9f586 100%) fixed;
+}
+
+#separator {
+  height: 10vh;
+}
