@@ -1,7 +1,7 @@
 # Greenhouse 🍃
 Greenhouse es un buscador para buscar el nombre científico y la descripción de cualquier árbol, planta u hongo.
 
-![Greenhouse](https://imgur.com/a/rKvn1dR)
+![Greenhouse](https://i.imgur.com/zUuVAlQ.png)
 
 ## Frameworks y herramientas
 - Server y backend: [NodeJS](https://nodejs.org/en/)
