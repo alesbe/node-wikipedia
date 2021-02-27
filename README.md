@@ -22,6 +22,8 @@ git clone https://github.com/alesbe/greenhouse
 Desde la consola de comandos, entrar a la carpeta del proyecto `greenhouse` y realizar:
 ```
 npm install
+cd client
+npm install
 ```
 
 ### 3.- Encender el servidor de React
